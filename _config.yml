@@ -1,8 +1,4 @@
 title: Mohammed Zoheb Jahagirdar
-description: AI-LLM/MLOps Engineer | AWS Certified | GenAI Enthusiast
-theme: minima
-author: Mohammed Zoheb Jahagirdar
-
-github_username: zohebj007
-linkedin_username: Mohammed-zoheb-jahagirdar
-email: jahagirdarzoheb@gmail.com
+description: AI-MLOps Engineer
+baseurl: ""  # Leave empty for user site
+theme: null  # We're using a custom layout, not a gem theme
